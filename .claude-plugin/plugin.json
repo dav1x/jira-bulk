@@ -1,0 +1,6 @@
+{
+  "name": "jira-bulk",
+  "description": "Bulk create Jira issues from CSV files or Google Sheets",
+  "version": "1.0.0",
+  "author": "dphillip"
+}
